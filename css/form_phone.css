@@ -1,0 +1,23 @@
+.form-group {
+    display: flex;
+    flex-direction: column;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: center;
+    width: 500px;
+    height: 300px;
+    background: rgb(210, 223, 209);
+    margin: 30px;
+}
+
+.form__wrap {
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
+}
